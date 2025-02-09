@@ -16,7 +16,7 @@
 ### 2. 설치
 1. 레포지토리를 클론합니다.
     ```bash
-    git clone https://github.com/yourusername/smart_card_test.git
+    git clone https://github.com/ella-hong22/smart_card_test.git
     cd smart_card_test
     ```
 
@@ -47,6 +47,7 @@
 ---
 
 ## 주요 파일 및 폴더 구조
+```
 smart_card_test/
 │
 ├── data/
@@ -59,4 +60,5 @@ smart_card_test/
 ├── requirements.txt     # Python 의존성 목록
 ├── test_model.py        # 모델 테스트 실행 파일
 └── test_results.csv     # 테스트 결과 저장 파일
-# smart_card_test
+```
+
