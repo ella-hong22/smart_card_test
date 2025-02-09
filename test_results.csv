@@ -1,0 +1,951 @@
+﻿model,image,question,response,inference_time
+llama3.2-vision,image_1.png,"이미지의 명함을 반드시 dict형태로 {""이름"": [이름], ""전화번호"":[전화번호], ""주소"":[주소], ""회사명"":[회사] } 형식으로 추출해","**명함 정보**
+
+*   **회사명:** After Glow
+*   **대표자 이름:**
+    *   김소현 (Kim So-hyeon)
+*   **전화번호:** 02-345-6789, 010-1234-5678
+*   **주소:** 서울 강동구 풍산로12길34 1층
+
+명함의 정보를 dict형식으로 추출한 결과입니다.",19.19
+llama3.2-vision,image_2.jpg,이 장소를 상세하게 설명해줘.,"사진 속 장소는 대한민국 서울의 한 지역입니다. 사진에 보이는 건물은 N서울타워로, 1980년대에 지어졌으며 현재까지도 한국에서 가장 높은 빌딩으로 알려져 있습니다.
+
+N서울타워는 236m 높이에 있으며, 관광객들이 즐겨 찾는 곳 중 하나입니다. 이곳에서는 서울의 전경을 한눈에 볼 수 있고, 야간에는 서울이 밝게 빛나는 모습을 감상할 수도 있습니다. 또한 N서울타워 내부에는 다양한 박물관과 미술관도 있으며, 관광객들이 즐겨 찾는 곳 중 하나입니다.
+
+사진 속 장소의 주변 지역은 종로구와 마포구에 해당합니다. 이곳은 서울의 중심가이며, 역사적인 건축물들과 현대식 빌딩이 함께 있는 지역으로 알려져 있습니다. 또한 이곳에는 다양한 문화재들이 위치해 있으며, 관광객들에게 많은 인기를 끌고 있습니다.
+
+사진 속 장소는 한국의 대표적인 관광지 중 하나로 알려져 있으며, 세계적으로도 유명한 곳입니다. N서울타워와 주변 지역은 서울을 방문하는 여행자들의 필수적 경치 중 하나이며, 다양한 문화재들과 역사적인 건축물들을 감상할 수 있는 좋은 장소입니다.",6.63
+llama3.2-vision,image_3.png,이 명함의 정보를 딕셔너리 형태로 추출해줘.,"### **Hong, Kyle**
+
+*   이름: 홍길
+*   직책: Manager (매니저)
+*   회사명: Uusando Corporation(우산도 코퍼레이션)
+
+### **Contact Information**
+
+*   주소: 1000 Nari, Buk-myeon, Ulleung-gun, Gyeongsangbuk-do, South Korea
+*   전화번호: +82-54-1234-5678
+*   이메일: kyle.hong@uusando.biz
+
+### **Company Information**
+
+*   회사명: Uusando Corporation(우산도 코퍼레이션)
+*   주소: 1000 Nari, Buk-myeon, Ulleung-gun, Gyeongsangbuk-do, South Korea
+*   전화번호: +82-54-1234-5678
+*   이메일: kyle.hong@uusando.biz",4.35
+llama3.2-vision,image_4.jpeg,이 장소가 어디인지 알려줘.,"이 사진 속의 건물은 로마 콜리세움입니다. 이곳은 72년부터 80년에 걸쳐 콘스탄틴 대제에 의해 지어졌으며, 원래는 기독교인들을 잡아먹기 위해 사용되었다고 합니다. 하지만 지금은 전시장으로 쓰이고 있습니다.",2.53
+llama3.2-vision,image_5.jpg,이 장소에 대한 주요 특징을 설명해,"Error: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class=""no-js ie6 oldie"" lang=""en-US""> <![endif]-->
+<!--[if IE 7]>    <html class=""no-js ie7 oldie"" lang=""en-US""> <![endif]-->
+<!--[if IE 8]>    <html class=""no-js ie8 oldie"" lang=""en-US""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class=""no-js"" lang=""en-US""> <!--<![endif]-->
+<head>
+
+
+<title>w40guxxwtndvtu-11434.proxy.runpod.net | 524: A timeout occurred</title>
+<meta charset=""UTF-8"" />
+<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+<meta http-equiv=""X-UA-Compatible"" content=""IE=Edge"" />
+<meta name=""robots"" content=""noindex, nofollow"" />
+<meta name=""viewport"" content=""width=device-width,initial-scale=1"" />
+<link rel=""stylesheet"" id=""cf_styles-css"" href=""/cdn-cgi/styles/main.css"" />
+
+
+</head>
+<body>
+<div id=""cf-wrapper"">
+    <div id=""cf-error-details"" class=""p-0"">
+        <header class=""mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8"">
+            <h1 class=""inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2"">
+              <span class=""inline-block"">A timeout occurred</span>
+              <span class=""code-label"">Error code 524</span>
+            </h1>
+            <div>
+               Visit <a href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" target=""_blank"" rel=""noopener noreferrer"">cloudflare.com</a> for more information.
+            </div>
+            <div class=""mt-3"">2025-02-09 08:56:29 UTC</div>
+        </header>
+        <div class=""my-8 bg-gradient-gray"">
+            <div class=""w-240 lg:w-full mx-auto"">
+                <div class=""clearfix md:px-8"">
+                  
+<div id=""cf-browser-status"" class="" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center"">
+  <div class=""relative mb-10 md:m-0"">
+    
+    <span class=""cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat""></span>
+    <span class=""cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4""></span>
+    
+  </div>
+  <span class=""md:block w-full truncate"">You</span>
+  <h3 class=""md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">
+    
+    Browser
+    
+  </h3>
+  <span class=""leading-1.3 text-2xl text-green-success"">Working</span>
+</div>
+
+<div id=""cf-cloudflare-status"" class="" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center"">
+  <div class=""relative mb-10 md:m-0"">
+    <a href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" target=""_blank"" rel=""noopener noreferrer"">
+    <span class=""cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat""></span>
+    <span class=""cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4""></span>
+    </a>
+  </div>
+  <span class=""md:block w-full truncate"">Seoul</span>
+  <h3 class=""md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">
+    <a href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" target=""_blank"" rel=""noopener noreferrer"">
+    Cloudflare
+    </a>
+  </h3>
+  <span class=""leading-1.3 text-2xl text-green-success"">Working</span>
+</div>
+
+<div id=""cf-host-status"" class=""cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center"">
+  <div class=""relative mb-10 md:m-0"">
+    
+    <span class=""cf-icon-server block md:hidden h-20 bg-center bg-no-repeat""></span>
+    <span class=""cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4""></span>
+    
+  </div>
+  <span class=""md:block w-full truncate"">w40guxxwtndvtu-11434.proxy.runpod.net</span>
+  <h3 class=""md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">
+    
+    Host
+    
+  </h3>
+  <span class=""leading-1.3 text-2xl text-red-error"">Error</span>
+</div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class=""w-240 lg:w-full mx-auto mb-8 lg:px-8"">
+            <div class=""clearfix"">
+                <div class=""w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed"">
+                    <h2 class=""text-3xl font-normal leading-1.3 mb-4"">What happened?</h2>
+                    <p>The origin web server timed out responding to this request.</p>
+                </div>
+                <div class=""w-1/2 md:w-full float-left leading-relaxed"">
+                    <h2 class=""text-3xl font-normal leading-1.3 mb-4"">What can I do?</h2>
+                          <h3 class=""text-15 font-semibold mb-2"">If you're a visitor of this website:</h3>
+      <p class=""mb-6"">Please try again in a few minutes.</p>
+
+      <h3 class=""text-15 font-semibold mb-2"">If you're the owner of this website:</h3>
+      <p><span>The connection to the origin web server was made, but the origin web server timed out before responding. The likely cause is an overloaded background task, database or application, stressing the resources on your web server. To resolve, please work with your hosting provider or web development team to free up resources for your database or overloaded application.</span> <a rel=""noopener noreferrer"" href=""https://support.cloudflare.com/hc/en-us/articles/200171926-Error-524"">Additional troubleshooting information here.</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class=""cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300"">
+  <p class=""text-13"">
+    <span class=""cf-footer-item sm:block sm:mb-1"">Cloudflare Ray ID: <strong class=""font-semibold"">90f2a3114f373122</strong></span>
+    <span class=""cf-footer-separator sm:hidden"">&bull;</span>
+    <span id=""cf-footer-item-ip"" class=""cf-footer-item hidden sm:block sm:mb-1"">
+      Your IP:
+      <button type=""button"" id=""cf-footer-ip-reveal"" class=""cf-footer-ip-reveal-btn"">Click to reveal</button>
+      <span class=""hidden"" id=""cf-footer-ip"">110.12.26.28</span>
+      <span class=""cf-footer-separator sm:hidden"">&bull;</span>
+    </span>
+    <span class=""cf-footer-item sm:block sm:mb-1""><span>Performance &amp; security by</span> <a rel=""noopener noreferrer"" href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" id=""brand_link"" target=""_blank"">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById(""cf-footer-item-ip""),c=a.getElementById(""cf-footer-ip-reveal"");b&&""classList""in b&&(b.classList.remove(""hidden""),c.addEventListener(""click"",function(){c.classList.add(""hidden"");a.getElementById(""cf-footer-ip"").classList.remove(""hidden"")}))}var a=document;document.addEventListener&&a.addEventListener(""DOMContentLoaded"",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+",0.0
+llama3.2-vision,image_6.jpg,사진 속 사람이 지금 어디에서 무얼 하고 있는지 묘사해줘,"Error: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class=""no-js ie6 oldie"" lang=""en-US""> <![endif]-->
+<!--[if IE 7]>    <html class=""no-js ie7 oldie"" lang=""en-US""> <![endif]-->
+<!--[if IE 8]>    <html class=""no-js ie8 oldie"" lang=""en-US""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class=""no-js"" lang=""en-US""> <!--<![endif]-->
+<head>
+
+
+<title>w40guxxwtndvtu-11434.proxy.runpod.net | 524: A timeout occurred</title>
+<meta charset=""UTF-8"" />
+<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+<meta http-equiv=""X-UA-Compatible"" content=""IE=Edge"" />
+<meta name=""robots"" content=""noindex, nofollow"" />
+<meta name=""viewport"" content=""width=device-width,initial-scale=1"" />
+<link rel=""stylesheet"" id=""cf_styles-css"" href=""/cdn-cgi/styles/main.css"" />
+
+
+</head>
+<body>
+<div id=""cf-wrapper"">
+    <div id=""cf-error-details"" class=""p-0"">
+        <header class=""mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8"">
+            <h1 class=""inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2"">
+              <span class=""inline-block"">A timeout occurred</span>
+              <span class=""code-label"">Error code 524</span>
+            </h1>
+            <div>
+               Visit <a href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" target=""_blank"" rel=""noopener noreferrer"">cloudflare.com</a> for more information.
+            </div>
+            <div class=""mt-3"">2025-02-09 08:58:09 UTC</div>
+        </header>
+        <div class=""my-8 bg-gradient-gray"">
+            <div class=""w-240 lg:w-full mx-auto"">
+                <div class=""clearfix md:px-8"">
+                  
+<div id=""cf-browser-status"" class="" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center"">
+  <div class=""relative mb-10 md:m-0"">
+    
+    <span class=""cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat""></span>
+    <span class=""cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4""></span>
+    
+  </div>
+  <span class=""md:block w-full truncate"">You</span>
+  <h3 class=""md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">
+    
+    Browser
+    
+  </h3>
+  <span class=""leading-1.3 text-2xl text-green-success"">Working</span>
+</div>
+
+<div id=""cf-cloudflare-status"" class="" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center"">
+  <div class=""relative mb-10 md:m-0"">
+    <a href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" target=""_blank"" rel=""noopener noreferrer"">
+    <span class=""cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat""></span>
+    <span class=""cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4""></span>
+    </a>
+  </div>
+  <span class=""md:block w-full truncate"">Seoul</span>
+  <h3 class=""md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">
+    <a href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" target=""_blank"" rel=""noopener noreferrer"">
+    Cloudflare
+    </a>
+  </h3>
+  <span class=""leading-1.3 text-2xl text-green-success"">Working</span>
+</div>
+
+<div id=""cf-host-status"" class=""cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center"">
+  <div class=""relative mb-10 md:m-0"">
+    
+    <span class=""cf-icon-server block md:hidden h-20 bg-center bg-no-repeat""></span>
+    <span class=""cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4""></span>
+    
+  </div>
+  <span class=""md:block w-full truncate"">w40guxxwtndvtu-11434.proxy.runpod.net</span>
+  <h3 class=""md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">
+    
+    Host
+    
+  </h3>
+  <span class=""leading-1.3 text-2xl text-red-error"">Error</span>
+</div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class=""w-240 lg:w-full mx-auto mb-8 lg:px-8"">
+            <div class=""clearfix"">
+                <div class=""w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed"">
+                    <h2 class=""text-3xl font-normal leading-1.3 mb-4"">What happened?</h2>
+                    <p>The origin web server timed out responding to this request.</p>
+                </div>
+                <div class=""w-1/2 md:w-full float-left leading-relaxed"">
+                    <h2 class=""text-3xl font-normal leading-1.3 mb-4"">What can I do?</h2>
+                          <h3 class=""text-15 font-semibold mb-2"">If you're a visitor of this website:</h3>
+      <p class=""mb-6"">Please try again in a few minutes.</p>
+
+      <h3 class=""text-15 font-semibold mb-2"">If you're the owner of this website:</h3>
+      <p><span>The connection to the origin web server was made, but the origin web server timed out before responding. The likely cause is an overloaded background task, database or application, stressing the resources on your web server. To resolve, please work with your hosting provider or web development team to free up resources for your database or overloaded application.</span> <a rel=""noopener noreferrer"" href=""https://support.cloudflare.com/hc/en-us/articles/200171926-Error-524"">Additional troubleshooting information here.</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class=""cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300"">
+  <p class=""text-13"">
+    <span class=""cf-footer-item sm:block sm:mb-1"">Cloudflare Ray ID: <strong class=""font-semibold"">90f2a582cce03122</strong></span>
+    <span class=""cf-footer-separator sm:hidden"">&bull;</span>
+    <span id=""cf-footer-item-ip"" class=""cf-footer-item hidden sm:block sm:mb-1"">
+      Your IP:
+      <button type=""button"" id=""cf-footer-ip-reveal"" class=""cf-footer-ip-reveal-btn"">Click to reveal</button>
+      <span class=""hidden"" id=""cf-footer-ip"">110.12.26.28</span>
+      <span class=""cf-footer-separator sm:hidden"">&bull;</span>
+    </span>
+    <span class=""cf-footer-item sm:block sm:mb-1""><span>Performance &amp; security by</span> <a rel=""noopener noreferrer"" href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" id=""brand_link"" target=""_blank"">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById(""cf-footer-item-ip""),c=a.getElementById(""cf-footer-ip-reveal"");b&&""classList""in b&&(b.classList.remove(""hidden""),c.addEventListener(""click"",function(){c.classList.add(""hidden"");a.getElementById(""cf-footer-ip"").classList.remove(""hidden"")}))}var a=document;document.addEventListener&&a.addEventListener(""DOMContentLoaded"",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+",0.0
+llama3.2-vision,image_7.jpg,사진 속에 사람이 몇명이고 무엇을 하고 있는지 자세하게 설명해,"Error: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class=""no-js ie6 oldie"" lang=""en-US""> <![endif]-->
+<!--[if IE 7]>    <html class=""no-js ie7 oldie"" lang=""en-US""> <![endif]-->
+<!--[if IE 8]>    <html class=""no-js ie8 oldie"" lang=""en-US""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class=""no-js"" lang=""en-US""> <!--<![endif]-->
+<head>
+
+
+<title>w40guxxwtndvtu-11434.proxy.runpod.net | 524: A timeout occurred</title>
+<meta charset=""UTF-8"" />
+<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+<meta http-equiv=""X-UA-Compatible"" content=""IE=Edge"" />
+<meta name=""robots"" content=""noindex, nofollow"" />
+<meta name=""viewport"" content=""width=device-width,initial-scale=1"" />
+<link rel=""stylesheet"" id=""cf_styles-css"" href=""/cdn-cgi/styles/main.css"" />
+
+
+</head>
+<body>
+<div id=""cf-wrapper"">
+    <div id=""cf-error-details"" class=""p-0"">
+        <header class=""mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8"">
+            <h1 class=""inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2"">
+              <span class=""inline-block"">A timeout occurred</span>
+              <span class=""code-label"">Error code 524</span>
+            </h1>
+            <div>
+               Visit <a href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" target=""_blank"" rel=""noopener noreferrer"">cloudflare.com</a> for more information.
+            </div>
+            <div class=""mt-3"">2025-02-09 08:59:50 UTC</div>
+        </header>
+        <div class=""my-8 bg-gradient-gray"">
+            <div class=""w-240 lg:w-full mx-auto"">
+                <div class=""clearfix md:px-8"">
+                  
+<div id=""cf-browser-status"" class="" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center"">
+  <div class=""relative mb-10 md:m-0"">
+    
+    <span class=""cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat""></span>
+    <span class=""cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4""></span>
+    
+  </div>
+  <span class=""md:block w-full truncate"">You</span>
+  <h3 class=""md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">
+    
+    Browser
+    
+  </h3>
+  <span class=""leading-1.3 text-2xl text-green-success"">Working</span>
+</div>
+
+<div id=""cf-cloudflare-status"" class="" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center"">
+  <div class=""relative mb-10 md:m-0"">
+    <a href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" target=""_blank"" rel=""noopener noreferrer"">
+    <span class=""cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat""></span>
+    <span class=""cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4""></span>
+    </a>
+  </div>
+  <span class=""md:block w-full truncate"">Seoul</span>
+  <h3 class=""md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">
+    <a href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" target=""_blank"" rel=""noopener noreferrer"">
+    Cloudflare
+    </a>
+  </h3>
+  <span class=""leading-1.3 text-2xl text-green-success"">Working</span>
+</div>
+
+<div id=""cf-host-status"" class=""cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center"">
+  <div class=""relative mb-10 md:m-0"">
+    
+    <span class=""cf-icon-server block md:hidden h-20 bg-center bg-no-repeat""></span>
+    <span class=""cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4""></span>
+    
+  </div>
+  <span class=""md:block w-full truncate"">w40guxxwtndvtu-11434.proxy.runpod.net</span>
+  <h3 class=""md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">
+    
+    Host
+    
+  </h3>
+  <span class=""leading-1.3 text-2xl text-red-error"">Error</span>
+</div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class=""w-240 lg:w-full mx-auto mb-8 lg:px-8"">
+            <div class=""clearfix"">
+                <div class=""w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed"">
+                    <h2 class=""text-3xl font-normal leading-1.3 mb-4"">What happened?</h2>
+                    <p>The origin web server timed out responding to this request.</p>
+                </div>
+                <div class=""w-1/2 md:w-full float-left leading-relaxed"">
+                    <h2 class=""text-3xl font-normal leading-1.3 mb-4"">What can I do?</h2>
+                          <h3 class=""text-15 font-semibold mb-2"">If you're a visitor of this website:</h3>
+      <p class=""mb-6"">Please try again in a few minutes.</p>
+
+      <h3 class=""text-15 font-semibold mb-2"">If you're the owner of this website:</h3>
+      <p><span>The connection to the origin web server was made, but the origin web server timed out before responding. The likely cause is an overloaded background task, database or application, stressing the resources on your web server. To resolve, please work with your hosting provider or web development team to free up resources for your database or overloaded application.</span> <a rel=""noopener noreferrer"" href=""https://support.cloudflare.com/hc/en-us/articles/200171926-Error-524"">Additional troubleshooting information here.</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class=""cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300"">
+  <p class=""text-13"">
+    <span class=""cf-footer-item sm:block sm:mb-1"">Cloudflare Ray ID: <strong class=""font-semibold"">90f2a7f41e9b3122</strong></span>
+    <span class=""cf-footer-separator sm:hidden"">&bull;</span>
+    <span id=""cf-footer-item-ip"" class=""cf-footer-item hidden sm:block sm:mb-1"">
+      Your IP:
+      <button type=""button"" id=""cf-footer-ip-reveal"" class=""cf-footer-ip-reveal-btn"">Click to reveal</button>
+      <span class=""hidden"" id=""cf-footer-ip"">110.12.26.28</span>
+      <span class=""cf-footer-separator sm:hidden"">&bull;</span>
+    </span>
+    <span class=""cf-footer-item sm:block sm:mb-1""><span>Performance &amp; security by</span> <a rel=""noopener noreferrer"" href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" id=""brand_link"" target=""_blank"">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById(""cf-footer-item-ip""),c=a.getElementById(""cf-footer-ip-reveal"");b&&""classList""in b&&(b.classList.remove(""hidden""),c.addEventListener(""click"",function(){c.classList.add(""hidden"");a.getElementById(""cf-footer-ip"").classList.remove(""hidden"")}))}var a=document;document.addEventListener&&a.addEventListener(""DOMContentLoaded"",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+",0.0
+llama3.2-vision,image_8.jpg,사진 속 사람은 몇명이야? 지금 무슨 상황인지 말해줘.,"Error: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class=""no-js ie6 oldie"" lang=""en-US""> <![endif]-->
+<!--[if IE 7]>    <html class=""no-js ie7 oldie"" lang=""en-US""> <![endif]-->
+<!--[if IE 8]>    <html class=""no-js ie8 oldie"" lang=""en-US""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class=""no-js"" lang=""en-US""> <!--<![endif]-->
+<head>
+
+
+<title>w40guxxwtndvtu-11434.proxy.runpod.net | 524: A timeout occurred</title>
+<meta charset=""UTF-8"" />
+<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+<meta http-equiv=""X-UA-Compatible"" content=""IE=Edge"" />
+<meta name=""robots"" content=""noindex, nofollow"" />
+<meta name=""viewport"" content=""width=device-width,initial-scale=1"" />
+<link rel=""stylesheet"" id=""cf_styles-css"" href=""/cdn-cgi/styles/main.css"" />
+
+
+</head>
+<body>
+<div id=""cf-wrapper"">
+    <div id=""cf-error-details"" class=""p-0"">
+        <header class=""mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8"">
+            <h1 class=""inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2"">
+              <span class=""inline-block"">A timeout occurred</span>
+              <span class=""code-label"">Error code 524</span>
+            </h1>
+            <div>
+               Visit <a href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" target=""_blank"" rel=""noopener noreferrer"">cloudflare.com</a> for more information.
+            </div>
+            <div class=""mt-3"">2025-02-09 09:01:31 UTC</div>
+        </header>
+        <div class=""my-8 bg-gradient-gray"">
+            <div class=""w-240 lg:w-full mx-auto"">
+                <div class=""clearfix md:px-8"">
+                  
+<div id=""cf-browser-status"" class="" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center"">
+  <div class=""relative mb-10 md:m-0"">
+    
+    <span class=""cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat""></span>
+    <span class=""cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4""></span>
+    
+  </div>
+  <span class=""md:block w-full truncate"">You</span>
+  <h3 class=""md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">
+    
+    Browser
+    
+  </h3>
+  <span class=""leading-1.3 text-2xl text-green-success"">Working</span>
+</div>
+
+<div id=""cf-cloudflare-status"" class="" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center"">
+  <div class=""relative mb-10 md:m-0"">
+    <a href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" target=""_blank"" rel=""noopener noreferrer"">
+    <span class=""cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat""></span>
+    <span class=""cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4""></span>
+    </a>
+  </div>
+  <span class=""md:block w-full truncate"">Seoul</span>
+  <h3 class=""md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">
+    <a href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" target=""_blank"" rel=""noopener noreferrer"">
+    Cloudflare
+    </a>
+  </h3>
+  <span class=""leading-1.3 text-2xl text-green-success"">Working</span>
+</div>
+
+<div id=""cf-host-status"" class=""cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center"">
+  <div class=""relative mb-10 md:m-0"">
+    
+    <span class=""cf-icon-server block md:hidden h-20 bg-center bg-no-repeat""></span>
+    <span class=""cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4""></span>
+    
+  </div>
+  <span class=""md:block w-full truncate"">w40guxxwtndvtu-11434.proxy.runpod.net</span>
+  <h3 class=""md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">
+    
+    Host
+    
+  </h3>
+  <span class=""leading-1.3 text-2xl text-red-error"">Error</span>
+</div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class=""w-240 lg:w-full mx-auto mb-8 lg:px-8"">
+            <div class=""clearfix"">
+                <div class=""w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed"">
+                    <h2 class=""text-3xl font-normal leading-1.3 mb-4"">What happened?</h2>
+                    <p>The origin web server timed out responding to this request.</p>
+                </div>
+                <div class=""w-1/2 md:w-full float-left leading-relaxed"">
+                    <h2 class=""text-3xl font-normal leading-1.3 mb-4"">What can I do?</h2>
+                          <h3 class=""text-15 font-semibold mb-2"">If you're a visitor of this website:</h3>
+      <p class=""mb-6"">Please try again in a few minutes.</p>
+
+      <h3 class=""text-15 font-semibold mb-2"">If you're the owner of this website:</h3>
+      <p><span>The connection to the origin web server was made, but the origin web server timed out before responding. The likely cause is an overloaded background task, database or application, stressing the resources on your web server. To resolve, please work with your hosting provider or web development team to free up resources for your database or overloaded application.</span> <a rel=""noopener noreferrer"" href=""https://support.cloudflare.com/hc/en-us/articles/200171926-Error-524"">Additional troubleshooting information here.</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class=""cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300"">
+  <p class=""text-13"">
+    <span class=""cf-footer-item sm:block sm:mb-1"">Cloudflare Ray ID: <strong class=""font-semibold"">90f2aa6aed943122</strong></span>
+    <span class=""cf-footer-separator sm:hidden"">&bull;</span>
+    <span id=""cf-footer-item-ip"" class=""cf-footer-item hidden sm:block sm:mb-1"">
+      Your IP:
+      <button type=""button"" id=""cf-footer-ip-reveal"" class=""cf-footer-ip-reveal-btn"">Click to reveal</button>
+      <span class=""hidden"" id=""cf-footer-ip"">110.12.26.28</span>
+      <span class=""cf-footer-separator sm:hidden"">&bull;</span>
+    </span>
+    <span class=""cf-footer-item sm:block sm:mb-1""><span>Performance &amp; security by</span> <a rel=""noopener noreferrer"" href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" id=""brand_link"" target=""_blank"">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById(""cf-footer-item-ip""),c=a.getElementById(""cf-footer-ip-reveal"");b&&""classList""in b&&(b.classList.remove(""hidden""),c.addEventListener(""click"",function(){c.classList.add(""hidden"");a.getElementById(""cf-footer-ip"").classList.remove(""hidden"")}))}var a=document;document.addEventListener&&a.addEventListener(""DOMContentLoaded"",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+",0.0
+llama3.2-vision,image_9.jpg,사진 속 동물은 어떤 동물이고 뭘 하고 있어?,"사진 속의 동물은 개입니다. 사진에서 보이는 것처럼, 이 개는 흰색이며 머리 위에 모자를 쓰고 있습니다. 
+
+개가 모자와 함께 찍힌다는 점을 보면, 이는 사람과 같이 옷을 입히거나 장난감으로 사용하는 것으로 추정됩니다. 또한 사진 속의 배경이 집 안이라는 것을 알 수 있으므로, 이 개는 주인에게 애완동물로 기르지고 있는 것 같습니다.
+
+사진에서 보이는 모자는 흰색이며, 머리 위에 잘 맞춰져 있습니다. 이는 개가 사람처럼 옷을 입고 있다는 점을 강조하는 것으로 생각됩니다. 
+
+이 사진은 매우 재미있는 사진입니다. 이와 같은 사진으로 인해 많은 사람들이 웃음을 터뜨리고 즐거움을 느낄 수 있을 것입니다.",5.47
+llama3.2-vision,image_10.jpg,이 명함의 정보를 딕셔너리 형태로 추출해줘. 그리고 사람 얼굴 인상을 묘사해줘,"### 김기아 카마스터 
+
+*   **전화번호:** 010-2282-8119
+*   **회사명:**
+    *   회사 이름은 미상입니다.
+    *   주소는 서울 특별시 서초구 한강로12(양재동)입니다. 
+*   **이메일주소:** madcomm@daum.net
+
+### 김기아 카마스터 
+
+*   **사진:** 사진의 얼굴 인상은 밝고 유쾌한 느낌을 주며, 미소가 아름답습니다.
+    *   눈에 비친 빛깔은 파란색이며, 이중눈동자가 있습니다. 
+    *   코는 작지만 뚱뚱하고, 입술이 두꺼운 편입니다. 
+
+### 김기아 카마스터
+
+*   **직책:** 카마스터
+*   **회사명:**
+    *   회사 이름은 미상입니다.
+    *   주소는 서울 특별시 서초구 한강로12(양재동)입니다.
+
+이미지 출처: https://www.naver.com/",6.09
+llama3.2-vision,image_11.jpg,이 명함의 정보를 딕셔너리 형태로 추출해줘.,"명함에 적힌 정보는 다음과 같습니다.
+
+*   **이름:** 이수민
+*   **직업:** 매니저
+*   **전화번호:**
+    *   070-8119-2648 (휴대폰)
+    *   010-1234-5678 (핸드폰) 
+*   **운영시간:**
+
+    *   월요일부터 토요일까지 오전10시부터 오후 8시
+*   **소셜미디어 계정:** 
+
+    *   인스타그램: minisalon_02
+
+이름, 직업, 전화번호, 운영 시간 및 소셜 미디어 계정을 딕셔너리 형태로 추출하면 다음과 같습니다.
+
+```
+{
+""이름"": ""이수민"",
+""직업"": ""매니저"",
+""전화번호"": {
+    ""휴대폰1"": 070-8119-2648,
+    ""핸드폰2"": 010-1234-5678
+},
+""운영시간"":""월요일부터 토요일까지 오전10시부터 오후 8시"",
+""소셜미디어 계정"":{
+    ""인스타그램"": minisalon_02
+}
+}
+
+```
+
+이름, 직업, 전화번호, 운영 시간 및 소셜 미디어 계정을 딕셔너리 형태로 추출하면 다음과 같습니다.",5.94
+llama3.2-vision,image_12.jpg,이 기술 장비의 용도와 주요 기능을 설명해줘,"이미지에서 보이는 것은 LED 디스플레이입니다. 
+
+LED 디스플레이는 전자식으로 조명된 표시장치로, 빛과 색상을 조절하여 다양한 정보를 표현할 수 있습니다.
+
+이 장비의 용도와 주요 기능은 다음과 같습니다:
+
+*   **정보표시**: 여러 가지 정보를 빠르게 및 정확하게 보여주는 데 사용됩니다. 
+*   **광고홍보**: 광고 홍보에 적합한 장치로, 색상과 형태 등 다양한 효과를 표현할 수 있습니다.
+*   **교육용**: 교육을 위한 자료나 영상 등을 표시하는 데 사용될 수 있습니다.
+
+이미지에서 보이는 LED 디스플레이는 정보표시 및 광고홍보 용도로 사용되고 있는 것으로 추정됩니다.",3.89
+llama3.2-vision,image_13.jpg,해당 회사에 대해서 설명해줘,"Netflix는 미국의 스트리밍 서비스 제공업체입니다. 1997년 설립되어 현재는 세계 최대의 비디오 스트림 서비스 중 하나로 알려져 있습니다.
+
+넷플릭스는 영화, 드라마, 애니메이션 등 다양한 콘텐츠를 제공하며, 사용자들은 이를 온라인에서 무료 또는 유료로 시청할 수 있습니다. 또한 넷플릭스에서는 원래 제작한 오리지널 콘텐츠도 제공하고 있으며, 이는 넷플릭스의 인기를 더욱 높여주고 있습니다.
+
+넷플릭스는 다양한 국가에 서비스를 제공하며, 사용자들은 여러 언어로 콘텐츠를 즐길 수 있습니다. 넷플릭스는 또한 영화와 드라마 외에도 다큐멘터리, 코미디 등 다양한 장르의 콘텐츠도 제공하고 있으며, 이는 넷플릭스의 다양성을 더욱 강조합니다.
+
+넷플릭스에서는 사용자들이 무료로 시청할 수 있는 콘텐츠를 포함하여 유료 서비스도 제공하며, 이를 통해 넷플릭스는 더 많은 사람들에게 접근성이 쉬운 스트리밍 서비스를 제공하고 있습니다.",4.92
+llama3.2-vision,image_14.jpg,"상황을 묘사해줘. 아주 자세하게, 몇명의 사람이고, 몇시이고, 등등","Error: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class=""no-js ie6 oldie"" lang=""en-US""> <![endif]-->
+<!--[if IE 7]>    <html class=""no-js ie7 oldie"" lang=""en-US""> <![endif]-->
+<!--[if IE 8]>    <html class=""no-js ie8 oldie"" lang=""en-US""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class=""no-js"" lang=""en-US""> <!--<![endif]-->
+<head>
+
+
+<title>w40guxxwtndvtu-11434.proxy.runpod.net | 524: A timeout occurred</title>
+<meta charset=""UTF-8"" />
+<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+<meta http-equiv=""X-UA-Compatible"" content=""IE=Edge"" />
+<meta name=""robots"" content=""noindex, nofollow"" />
+<meta name=""viewport"" content=""width=device-width,initial-scale=1"" />
+<link rel=""stylesheet"" id=""cf_styles-css"" href=""/cdn-cgi/styles/main.css"" />
+
+
+</head>
+<body>
+<div id=""cf-wrapper"">
+    <div id=""cf-error-details"" class=""p-0"">
+        <header class=""mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8"">
+            <h1 class=""inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2"">
+              <span class=""inline-block"">A timeout occurred</span>
+              <span class=""code-label"">Error code 524</span>
+            </h1>
+            <div>
+               Visit <a href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" target=""_blank"" rel=""noopener noreferrer"">cloudflare.com</a> for more information.
+            </div>
+            <div class=""mt-3"">2025-02-09 09:03:38 UTC</div>
+        </header>
+        <div class=""my-8 bg-gradient-gray"">
+            <div class=""w-240 lg:w-full mx-auto"">
+                <div class=""clearfix md:px-8"">
+                  
+<div id=""cf-browser-status"" class="" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center"">
+  <div class=""relative mb-10 md:m-0"">
+    
+    <span class=""cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat""></span>
+    <span class=""cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4""></span>
+    
+  </div>
+  <span class=""md:block w-full truncate"">You</span>
+  <h3 class=""md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">
+    
+    Browser
+    
+  </h3>
+  <span class=""leading-1.3 text-2xl text-green-success"">Working</span>
+</div>
+
+<div id=""cf-cloudflare-status"" class="" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center"">
+  <div class=""relative mb-10 md:m-0"">
+    <a href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" target=""_blank"" rel=""noopener noreferrer"">
+    <span class=""cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat""></span>
+    <span class=""cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4""></span>
+    </a>
+  </div>
+  <span class=""md:block w-full truncate"">Seoul</span>
+  <h3 class=""md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">
+    <a href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" target=""_blank"" rel=""noopener noreferrer"">
+    Cloudflare
+    </a>
+  </h3>
+  <span class=""leading-1.3 text-2xl text-green-success"">Working</span>
+</div>
+
+<div id=""cf-host-status"" class=""cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center"">
+  <div class=""relative mb-10 md:m-0"">
+    
+    <span class=""cf-icon-server block md:hidden h-20 bg-center bg-no-repeat""></span>
+    <span class=""cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4""></span>
+    
+  </div>
+  <span class=""md:block w-full truncate"">w40guxxwtndvtu-11434.proxy.runpod.net</span>
+  <h3 class=""md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">
+    
+    Host
+    
+  </h3>
+  <span class=""leading-1.3 text-2xl text-red-error"">Error</span>
+</div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class=""w-240 lg:w-full mx-auto mb-8 lg:px-8"">
+            <div class=""clearfix"">
+                <div class=""w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed"">
+                    <h2 class=""text-3xl font-normal leading-1.3 mb-4"">What happened?</h2>
+                    <p>The origin web server timed out responding to this request.</p>
+                </div>
+                <div class=""w-1/2 md:w-full float-left leading-relaxed"">
+                    <h2 class=""text-3xl font-normal leading-1.3 mb-4"">What can I do?</h2>
+                          <h3 class=""text-15 font-semibold mb-2"">If you're a visitor of this website:</h3>
+      <p class=""mb-6"">Please try again in a few minutes.</p>
+
+      <h3 class=""text-15 font-semibold mb-2"">If you're the owner of this website:</h3>
+      <p><span>The connection to the origin web server was made, but the origin web server timed out before responding. The likely cause is an overloaded background task, database or application, stressing the resources on your web server. To resolve, please work with your hosting provider or web development team to free up resources for your database or overloaded application.</span> <a rel=""noopener noreferrer"" href=""https://support.cloudflare.com/hc/en-us/articles/200171926-Error-524"">Additional troubleshooting information here.</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class=""cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300"">
+  <p class=""text-13"">
+    <span class=""cf-footer-item sm:block sm:mb-1"">Cloudflare Ray ID: <strong class=""font-semibold"">90f2ad85cb503122</strong></span>
+    <span class=""cf-footer-separator sm:hidden"">&bull;</span>
+    <span id=""cf-footer-item-ip"" class=""cf-footer-item hidden sm:block sm:mb-1"">
+      Your IP:
+      <button type=""button"" id=""cf-footer-ip-reveal"" class=""cf-footer-ip-reveal-btn"">Click to reveal</button>
+      <span class=""hidden"" id=""cf-footer-ip"">110.12.26.28</span>
+      <span class=""cf-footer-separator sm:hidden"">&bull;</span>
+    </span>
+    <span class=""cf-footer-item sm:block sm:mb-1""><span>Performance &amp; security by</span> <a rel=""noopener noreferrer"" href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" id=""brand_link"" target=""_blank"">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById(""cf-footer-item-ip""),c=a.getElementById(""cf-footer-ip-reveal"");b&&""classList""in b&&(b.classList.remove(""hidden""),c.addEventListener(""click"",function(){c.classList.add(""hidden"");a.getElementById(""cf-footer-ip"").classList.remove(""hidden"")}))}var a=document;document.addEventListener&&a.addEventListener(""DOMContentLoaded"",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+",0.0
+llama3.2-vision,image_15.webp,이 명함의 정보를 딕셔너리 형태로 추출해줘.,Error: failed to decode image: image: unknown format,0.0
+llama3.2-vision,image_16.jpg,부스에 대해서 설명해줘. 그리고 특이사항이 있으면 딕셔너리 형태로 저장해줘.,"부스는 'GREENER PRODUCTS'라는 제목으로, 환경을 보호하고 지속 가능한 발전을 위해 노력하는 기업의 제품과 서비스를 소개하는 공간입니다.
+
+**주요 내용**
+
+*   **Reduce**
+    *   재활용 가능성 있는 물질 사용
+    *   폐기물 감소 및 재사용
+*   **Recycle**
+    *   플라스틱, 종이 등 다양한 재료의 재활용 방법 소개
+*   **Replace**
+    *   환경에 유해한 제품을 대체하는 방법 소개
+
+**특이사항**
+
+|  | 내용 |
+| --- | --- |
+| Reduce | 폐기물 감소 및 재사용을 위한 노력 중인 기업: LG전자, 삼성SDS 등 |
+| Recycle | 플라스틱, 종이 등 다양한 재료의 재활용 방법 소개: 환경부 주관 '플라스틱 제로 캠페인' |
+| Replace | 환경에 유해한 제품을 대체하는 방법 소개: 에코프로비전 주관 '친환경 비누 개발 사업' |
+
+**사진**
+
+[이미지]
+
+*   부스의 전체적인 모습
+*   Reduce, Recycle, Replace의 내용을 담은 포스터들
+
+부스에서 소개된 기업과 서비스는 환경 보호와 지속 가능한 발전에 대한 노력을 하고 있습니다. 또한 다양한 재활용 방법 및 친환경 제품 개발에 대한 정보를 제공하고 있으며, 이러한 노력으로 인해 환경이 보다 깨끗하게 유지되고 있을 것입니다.",7.33
+llama3.2-vision,image_17.jpg,해당 장소와 추측할 수 있는 기업 정보에 대해서 말해봐,"Error: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class=""no-js ie6 oldie"" lang=""en-US""> <![endif]-->
+<!--[if IE 7]>    <html class=""no-js ie7 oldie"" lang=""en-US""> <![endif]-->
+<!--[if IE 8]>    <html class=""no-js ie8 oldie"" lang=""en-US""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class=""no-js"" lang=""en-US""> <!--<![endif]-->
+<head>
+
+
+<title>w40guxxwtndvtu-11434.proxy.runpod.net | 524: A timeout occurred</title>
+<meta charset=""UTF-8"" />
+<meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8"" />
+<meta http-equiv=""X-UA-Compatible"" content=""IE=Edge"" />
+<meta name=""robots"" content=""noindex, nofollow"" />
+<meta name=""viewport"" content=""width=device-width,initial-scale=1"" />
+<link rel=""stylesheet"" id=""cf_styles-css"" href=""/cdn-cgi/styles/main.css"" />
+
+
+</head>
+<body>
+<div id=""cf-wrapper"">
+    <div id=""cf-error-details"" class=""p-0"">
+        <header class=""mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8"">
+            <h1 class=""inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2"">
+              <span class=""inline-block"">A timeout occurred</span>
+              <span class=""code-label"">Error code 524</span>
+            </h1>
+            <div>
+               Visit <a href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" target=""_blank"" rel=""noopener noreferrer"">cloudflare.com</a> for more information.
+            </div>
+            <div class=""mt-3"">2025-02-09 09:05:26 UTC</div>
+        </header>
+        <div class=""my-8 bg-gradient-gray"">
+            <div class=""w-240 lg:w-full mx-auto"">
+                <div class=""clearfix md:px-8"">
+                  
+<div id=""cf-browser-status"" class="" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center"">
+  <div class=""relative mb-10 md:m-0"">
+    
+    <span class=""cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat""></span>
+    <span class=""cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4""></span>
+    
+  </div>
+  <span class=""md:block w-full truncate"">You</span>
+  <h3 class=""md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">
+    
+    Browser
+    
+  </h3>
+  <span class=""leading-1.3 text-2xl text-green-success"">Working</span>
+</div>
+
+<div id=""cf-cloudflare-status"" class="" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center"">
+  <div class=""relative mb-10 md:m-0"">
+    <a href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" target=""_blank"" rel=""noopener noreferrer"">
+    <span class=""cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat""></span>
+    <span class=""cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4""></span>
+    </a>
+  </div>
+  <span class=""md:block w-full truncate"">Seoul</span>
+  <h3 class=""md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">
+    <a href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" target=""_blank"" rel=""noopener noreferrer"">
+    Cloudflare
+    </a>
+  </h3>
+  <span class=""leading-1.3 text-2xl text-green-success"">Working</span>
+</div>
+
+<div id=""cf-host-status"" class=""cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center"">
+  <div class=""relative mb-10 md:m-0"">
+    
+    <span class=""cf-icon-server block md:hidden h-20 bg-center bg-no-repeat""></span>
+    <span class=""cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4""></span>
+    
+  </div>
+  <span class=""md:block w-full truncate"">w40guxxwtndvtu-11434.proxy.runpod.net</span>
+  <h3 class=""md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3"">
+    
+    Host
+    
+  </h3>
+  <span class=""leading-1.3 text-2xl text-red-error"">Error</span>
+</div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class=""w-240 lg:w-full mx-auto mb-8 lg:px-8"">
+            <div class=""clearfix"">
+                <div class=""w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed"">
+                    <h2 class=""text-3xl font-normal leading-1.3 mb-4"">What happened?</h2>
+                    <p>The origin web server timed out responding to this request.</p>
+                </div>
+                <div class=""w-1/2 md:w-full float-left leading-relaxed"">
+                    <h2 class=""text-3xl font-normal leading-1.3 mb-4"">What can I do?</h2>
+                          <h3 class=""text-15 font-semibold mb-2"">If you're a visitor of this website:</h3>
+      <p class=""mb-6"">Please try again in a few minutes.</p>
+
+      <h3 class=""text-15 font-semibold mb-2"">If you're the owner of this website:</h3>
+      <p><span>The connection to the origin web server was made, but the origin web server timed out before responding. The likely cause is an overloaded background task, database or application, stressing the resources on your web server. To resolve, please work with your hosting provider or web development team to free up resources for your database or overloaded application.</span> <a rel=""noopener noreferrer"" href=""https://support.cloudflare.com/hc/en-us/articles/200171926-Error-524"">Additional troubleshooting information here.</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class=""cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300"">
+  <p class=""text-13"">
+    <span class=""cf-footer-item sm:block sm:mb-1"">Cloudflare Ray ID: <strong class=""font-semibold"">90f2b02a49c13122</strong></span>
+    <span class=""cf-footer-separator sm:hidden"">&bull;</span>
+    <span id=""cf-footer-item-ip"" class=""cf-footer-item hidden sm:block sm:mb-1"">
+      Your IP:
+      <button type=""button"" id=""cf-footer-ip-reveal"" class=""cf-footer-ip-reveal-btn"">Click to reveal</button>
+      <span class=""hidden"" id=""cf-footer-ip"">110.12.26.28</span>
+      <span class=""cf-footer-separator sm:hidden"">&bull;</span>
+    </span>
+    <span class=""cf-footer-item sm:block sm:mb-1""><span>Performance &amp; security by</span> <a rel=""noopener noreferrer"" href=""https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=w40guxxwtndvtu-11434.proxy.runpod.net"" id=""brand_link"" target=""_blank"">Cloudflare</a></span>
+    
+  </p>
+  <script>(function(){function d(){var b=a.getElementById(""cf-footer-item-ip""),c=a.getElementById(""cf-footer-ip-reveal"");b&&""classList""in b&&(b.classList.remove(""hidden""),c.addEventListener(""click"",function(){c.classList.add(""hidden"");a.getElementById(""cf-footer-ip"").classList.remove(""hidden"")}))}var a=document;document.addEventListener&&a.addEventListener(""DOMContentLoaded"",d)})();</script>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+",0.0
+llama3.2-vision,image_18.jpg,이 포스터에 대한 중요 정보를 json 형태로 저장해줘,"Here is the information from the poster in JSON format:
+
+**Event Information**
+
+* **Title**: 2020 Social Impact Changers
+* **Date**: May 13, 2020 (Wednesday)
+* **Time**: 6:00 PM KST
+
+**Location**
+
+* **Address**: Not provided
+* **City**: Seoul
+* **Country**: South Korea
+
+**Speakers**
+
+* **Name**: Lee Jae-yong
+	+ Title: CEO of Samsung Electronics
+	+ Bio: Not provided
+* **Name**: Kim Yong-ho
+	+ Title: President and CEO of LG Chem Ltd.
+	+ Bio: Not provided
+
+**Event Details**
+
+* **Type**: Conference or seminar
+* **Language**: Korean (with English translation available)
+* **Format**: In-person event with online streaming option
+
+Note: The poster does not provide detailed information about the speakers' bios, so I couldn't include that in the JSON format. If you need more information, please let me know and I'll try to find it for you.",5.77
+llama3.2-vision,image_19.jpg,"표지판에 있는 정보를 읽고, 이대로 가려면 어디로 가야하는지 말해줘.","이 사진 속 표지판은 한국어와 한자로 된 이름을 가지고 있습니다. 
+
+사진의 왼쪽에는 '나가니'라는 글자가 보입니다. 이는 '나가는 길'이라는 뜻으로, 이곳에서 나갈 수 있는 방향을 나타내는 것으로 추정됩니다.
+
+표지판 위에 표시된 화살표를 따라서 사진 속 표지판이 위치한 곳의 왼쪽으로 이동하면, 계단과 함께 오른쪽으로 갈 수 있습니다. 
+
+사진 속 표지판 아래에는 '나가니'라는 글자가 다시 나타납니다. 이곳에서 나가는 길을 찾으려면, 위에 설명된 방향대로 이동하여 사진 속 표지판이 위치한 곳의 왼쪽으로 가서 계단과 함께 오른쪽으로 갈 수 있습니다.
+
+사진 속 표지판은 '나가니'라는 이름을 가지고 있기 때문에 이곳에서 나가는 길을 찾으려면, 위에 설명된 방향대로 이동하여 사진 속 표지판이 위치한 곳의 왼쪽으로 가서 계단과 함께 오른쪽으로 갈 수 있습니다.",5.98
+llama3.2-vision,image_20.jpg,장소에 대한 알 수 있는 모든 정보를 수집해서 딕셔너리 형태로 저장해줘.,"이미지에서 보이는 장소는 전시회나 박람회 같은 행사장으로 추정됩니다.
+
+*   **행사명:** 삼성 AI Control
+*   **주최자:**
+
+    *   주최자는 이미지에 표시된 로고로 확인할 수 있습니다. 이는 삼성의 로고입니다.
+*   **설치물 및 전시품:**
+    *   설치물은 행사의 이름인 ""AI Control""이 적혀있는 큰 배너와, 다양한 색상과 디자인을 가진 Samsung 제품들이 보이는 벽면으로 구성되어있습니다.
+    *   전시품은 이미지에 표시된 로고로 확인할 수 있는 삼성의 제품들입니다. 이들은 모두 화이트 컬러를 띄며, 각기 다른 형태와 크기를 가지고 있습니다.
+
+이미지에서 볼 수 없는 정보로는 행사장의 위치나 날짜가 포함됩니다.",5.69
