@@ -1,25 +1,16 @@
 import os
 import csv
-from dotenv import load_dotenv
-from ollama import Client
 import time
 import torch
 from PIL import Image
 from transformers import Qwen2_5_VLForConditionalGeneration, AutoProcessor
 
-load_dotenv()
-HOST_URL = os.getenv('HOST_URL')
-
-if HOST_URL is None:
-    raise ValueError("HOST_URL이 .env 파일에 정의되어 있지 않습니다.")
-
-client = Client(host=HOST_URL)
 
 # 테스트할 모델 리스트
 MODELS_TO_TEST = {
     "qwen": [
         "Qwen/Qwen2.5-VL-3B-Instruct",
-        "Qwen/Qwen2.5-VL-7B-Instruct",
+        # "Qwen/Qwen2.5-VL-7B-Instruct",
         # "Qwen/Qwen2.5-VL-72B-Instruct"
     ]
 }
